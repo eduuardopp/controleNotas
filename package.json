@@ -1,0 +1,17 @@
+{
+  "name": "controlenotas",
+  "version": "1.0.0",
+  "type": "module",
+  "scripts": {
+    "start": "npx tsc && node dist/gerenciadorNotas.js"
+  },
+  "dependencies": {
+    "readline-sync": "^1.4.10"
+  },
+  "devDependencies": {
+    "typescript": "^5.0.0"
+  }
+}
+
+
+
